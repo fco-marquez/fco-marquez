@@ -33,7 +33,7 @@ I'm passionate about **data science**, **software development**, and building **
 **Backend:** Ruby on Rails, FastAPI, Flask, Node.js  
 **Data Science / ML:** Pandas, NumPy, PyTorch, Scikit-learn, Spark  
 **Cloud / DevOps:** Firebase, Ansible, Docker  
-**Databases / Tools:** SQL, Git  
+**Databases / Tools:** MySQL, Postgres, Neo4j, Git  
 
 ---
 
@@ -44,4 +44,4 @@ I'm always exploring **new technologies** and **research areas** that merge **da
 
 ### 📫 Let's Connect  
 - **LinkedIn:** [linkedin.com/in/yourusername](#)  
-- **Email:** your.email@example.com  
+- **Email:** francisco.marquez.p@ug.uchile.cl
