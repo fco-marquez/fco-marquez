@@ -22,7 +22,7 @@ I'm passionate about **data science**, **software development**, and building **
 ---
 
 ## ♟️ Beyond Code  
-- Chess, basketball, and football enthusiast  
+- Chess, biking, trekking and football enthusiast  
 - Scout leader & treasurer for my group  
 - Curious about science, economics, personal finance and cooking 
 
