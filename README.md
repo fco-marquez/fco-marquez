@@ -43,5 +43,5 @@ I'm always exploring **new technologies** and **research areas** that merge **da
 ---
 
 ### 📫 Let's Connect  
-- **LinkedIn:** [linkedin.com/in/yourusername](#)  
+- **LinkedIn:** [linkedin.com/in/francisco-marquez-p/](#)  
 - **Email:** francisco.marquez.p@ug.uchile.cl
