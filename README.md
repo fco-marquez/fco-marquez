@@ -1,47 +1,23 @@
-# 👋 Hi, I'm Francisco Márquez  
+### Francisco Márquez
 
-🎓 **Computer Science Student** @ [University of Chile](https://www.uchile.cl)  
-📚 **Incoming Master's in Data Science** @ University of Chile  
-💻 **Software Engineer** @ a Chilean startup  
-📢 **TA for CC5002 – Development of Web Applications** (1.5 years)  
+Software engineer at [Vambe](https://vambe.ai) and M.Sc. Data Science student at Universidad de Chile.
 
----
+I do my best work on things I can own end to end, from the first idea to something people use.
 
-## 🚀 About Me  
-I'm passionate about **data science**, **software development**, and building **business-driven solutions** powered by **automation**, **retrieval-augmented generation (RAG)**, and **deep learning**. I focus on turning **cutting-edge technology** into **real-world impact**.  
+**What I'm working on**
 
----
+- **Ads at Vambe:** the product that runs and measures our clients' Meta and Google campaigns, plus the AI assistant that operates it.
+- **Coding-agent tooling:** my own harness for Claude Code (skills, hooks, memory) that shapes how I build every day.
+- **Thesis:** hierarchical, importance-aware retrieval (RAG) over Chilean civil court case files.
 
-## 🔍 Current Interests  
-- **Machine Learning & Deep Learning**  
-- **Data Engineering & Automation**  
-- **RAG & LLM Applications**  
-- **Scalable Web Development**  
-- **Business Solutions with AI**  
+**Stack**
 
----
+React, Next.js, TypeScript, Svelte · Node.js, Ruby on Rails, FastAPI, Flask · Pandas, NumPy, PyTorch, Scikit-learn, Spark · Postgres, MySQL, Neo4j · Docker, Firebase, Ansible
 
-## ♟️ Beyond Code  
-- Chess, biking, trekking and football enthusiast  
-- Scout leader & treasurer for my group  
-- Curious about science, economics, personal finance and cooking 
+**Outside code**
 
----
+Chess and trekking.
 
-## 🛠️ Tech Stack  
-**Frontend:** React, Next.js, TypeScript, Svelte, JavaScript  
-**Backend:** Ruby on Rails, FastAPI, Flask, Node.js  
-**Data Science / ML:** Pandas, NumPy, PyTorch, Scikit-learn, Spark  
-**Cloud / DevOps:** Firebase, Ansible, Docker  
-**Databases / Tools:** MySQL, Postgres, Neo4j, Git  
+**Contact**
 
----
-
-## 🌱 What's Next  
-I'm always exploring **new technologies** and **research areas** that merge **data-driven insights** with **scalable systems**. Looking to collaborate on **AI/ML projects**, **automation tools**, and **innovative web apps**.  
-
----
-
-### 📫 Let's Connect  
-- **LinkedIn:** [linkedin.com/in/francisco-marquez-p/](#)  
-- **Email:** francisco.marquez.p@ug.uchile.cl
+[LinkedIn](https://www.linkedin.com/in/francisco-marquez-p/) · francisco.marquez.p@ug.uchile.cl
